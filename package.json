@@ -19,7 +19,7 @@
     "vue": "^3.0.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.11.4",
+    "@babel/core": "^7.12.16",
     "@babel/preset-env": "^7.11.5",
     "@babel/preset-typescript": "^7.10.4",
     "@commitlint/cli": "^11.0.0",
