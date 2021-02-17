@@ -93,7 +93,7 @@
   "repository": "git@github.com:element-plus/element-plus.git",
   "license": "MIT",
   "dependencies": {
-    "@popperjs/core": "^2.6.0",
+    "@popperjs/core": "^2.7.0",
     "dayjs": "1.x",
     "lodash": "^4.17.20",
     "mitt": "^2.1.0"
