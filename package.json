@@ -57,7 +57,7 @@
     "rimraf": "^3.0.2",
     "sass": "^1.32.7",
     "sass-loader": "^10.0.1",
-    "style-loader": "^1.2.1",
+    "style-loader": "^2.0.0",
     "throttle-debounce": "3.0.1",
     "transliteration": "^2.1.11",
     "ts-loader": "^8.0.3",
