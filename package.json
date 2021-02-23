@@ -95,7 +95,7 @@
   "dependencies": {
     "@popperjs/core": "^2.7.0",
     "dayjs": "1.x",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "mitt": "^2.1.0"
   },
   "files": [
